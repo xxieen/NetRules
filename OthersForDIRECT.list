@@ -1,0 +1,6 @@
+# NAME: Apple-Intelligence
+# AUTHOR: xieen
+# REPO: https://github.com/xxieen/NetRules
+
+DOMAIN-SUFFIX,partyanimals.com
+PROCESS-NAME,/Applications/Infuse.app/Contents/MacOS/Infuse
